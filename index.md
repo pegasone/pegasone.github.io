@@ -1,11 +1,11 @@
 # pegasone.github.io
 PROJECTS
 
-<a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots take in this Windows Windows 10 Desktop app.
+<a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots take in this Windows 10 Desktop app.
 
 GALLERY
 
-Let's begin with this one, for Qatar is the country at the very top of the (default) list of countries ordered by <b>Total cases per million</b> population.
+Let's start with this one, for Qatar is the country at the top of the list of countries ordered by <b>Total cases per million</b> population.
 
 ![Figure 1](/img/img002.png)
 
@@ -16,3 +16,6 @@ It shows that in Qatar this indicator rose fast in May-June 2020 and then it slo
 Notice how this indicator dropped dramatically after peaking out at the beginning of June. Let me rewrite this: after reaching 12000 active cases/million on 2020-05-27, the value of the indicator dropped tenfold by mid July and remained stable. How was this possible? Let's have look at the <b>Positive rate</b>.
 
 ![Figure 3](/img/img003.png)
+
+It shows that Qatar successfully controlled the transmission of the disease in its population. Active cases per million dropped almost in sync with the positive rate.
+
