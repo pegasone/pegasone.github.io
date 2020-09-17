@@ -33,6 +33,6 @@ With the exception of Qatar, Sweden and the United States appear to have had the
 
 These plots also suggest that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%.
 
-South America during this time told a very different story...
+Central and South America during this time told a very different story... More to come.
 
 ![Figure 7](/img/img006.png)
