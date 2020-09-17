@@ -9,17 +9,17 @@ Let's start with this graph for Qatar, which tops the list of countries ordered 
 
 ![Figure 1](/img/img002.png)
 
-It shows that in Qatar this indicator rose fast in May-June 2020 and then it slowed down towards a plateau. So, Qatar should be in pretty bad shape by now (Sep 2020) one would think, right? Not really. Let's have a look at <b>Active cases per million</b>.
+It shows that in Qatar this indicator rose fast in May-June 2020 and then it slowed down to a plateau. So, Qatar should be in pretty bad shape by now (Sep 2020) one would think, right? Not really. Let's have a look at <b>Active cases per million</b>.
 
 ![Figure 2](/img/img004.png)
 
-Notice how this indicator dropped dramatically after peaking out at the beginning of June. Let me rewrite this: after reaching around 12000 active cases/million on 2020-05-27, the value of this indicator dropped tenfold by mid July and remained stable. How is this possible? Let's have look at the <b>Positive rate</b>.
+Notice how this indicator dropped dramatically after peaking out at the beginning of June. Let me rewrite this: after reaching around 12000 active cases/million on 2020-05-27, this indicator dropped tenfold by mid July and remained stable since then. How is this possible? Let's have look at the <b>Positive rate</b>.
 
 ![Figure 3](/img/img003.png)
 
 It shows that Qatar successfully controlled the transmission of the disease beginning in July. <b>Active cases per million</b> dropped almost in sync with the <b>Positive rate</b>.
 
-Let's see what the situation was at the same time in a few other countries: Unites States, France, Spain, Netherlands, Sweden, and Israel. I chose these countries because they too are near the top on the <b>Active cases per million</b> list, as can be seen on the heat map.
+Let's see what the situation was at that time in a few other countries: Unites States, France, Spain, Netherlands, Sweden, and Israel. I chose these countries because they too are near the top on the <b>Active cases per million</b> list, as can be seen on the heat map.
 
 ![Figure 4](/img/img012.png)
 
