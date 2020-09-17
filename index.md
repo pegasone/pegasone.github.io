@@ -7,4 +7,4 @@ GALLERY
 
 Let's start with these one, for Qatar is the country that comes up at the top of the (default) list showing countries ordered by <b>Total cases per million</b> population.
 
-![Figure 1](/img/img0002.png) 
+![Figure 1](/img/img002.png) 
