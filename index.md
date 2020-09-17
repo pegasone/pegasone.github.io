@@ -5,11 +5,11 @@ PROJECTS
 
 GALLERY
 
-Let's start with this graph for Qatar, the country at the top of the list of countries ordered by <b>Total cases per million</b> population.
+Let's start with this graph for Qatar, which tops the list of countries ordered by <b>Total cases per million</b> population.
 
 ![Figure 1](/img/img002.png)
 
-It shows that in Qatar this indicator rose fast in May-June 2020 and then it slowed down aiming towards a plateau. So, Qatar should be in pretty bad shape by now (Sep 2020) one would think, right? Not really. Let's have a look at <b>Active cases per million</b>.
+It shows that in Qatar this indicator rose fast in May-June 2020 and then it slowed down towards a plateau. So, Qatar should be in pretty bad shape by now (Sep 2020) one would think, right? Not really. Let's have a look at <b>Active cases per million</b>.
 
 ![Figure 2](/img/img004.png)
 
@@ -23,15 +23,17 @@ Let's see what the situation was at the same time in a few other countries: Unit
 
 ![Figure 4](/img/img012.png)
 
-One can notice that <b>Active cases per million</b> were almost flat in June-July in Israel, Spain, France, and Netherlands but they were increasing fast in Sweden and the United States.
+<b>Active cases per million</b> were almost flat in June-July in Israel, Spain, France, and Netherlands while they were increasing fast in Qatar, Sweden, and the United States.
+
+Notice how numbers blow up again in early September in Spain, France, and Israel; the United States and Netherlands seem to have more control over the situation while Sweden and Qatar clearly are in the best positions.
 
 ![Figure 5](/img/img011.png)
 
-With the exception of Qatar, Sweden and the United States appear to have had the highest <b>Positive rate</b> numbers in June-July (some the data for Sweeden is unavailable).
+With the exception of Qatar, Sweden and the United States appear to have the highest <b>Positive rate</b> numbers in June-July (some the data for Sweeden is unavailable).
 
 ![Figure 6](/img/img013.png)
 
-These plots also suggest that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%.
+These plots also suggest that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%. At a rate of 4% and above it seems almost impossible to stop the daily increase in active cases. 
 
 Central and South America during this time told a very different story... More to come.
 
