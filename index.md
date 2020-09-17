@@ -1,9 +1,11 @@
 # pegasone.github.io
-PROJECTS
+<h1>PROJECTS</h1>
 
 <a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots taken in this Windows 10 Desktop app.
 
-GALLERY
+<h2>GALLERY</h2>
+
+<h3>2020-09-17</h3>
 
 Let's start with this graph for Qatar, which tops the list of countries ordered by <b>Total cases per million</b> population.
 
