@@ -36,6 +36,18 @@ Notice how numbers blow up again in early September in Spain, France, and Israel
 
 These plots also suggest that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%. At a rate of 4% and above it seems almost impossible to stop the daily increase in active cases. 
 
-Central and South America during this time tell us a very different story... More to come.
+Central and South America during this time tell us a very different story... More on this later.
 
 ![Figure 7](/img/img006.png)
+
+Let's see how The Five Eyes did. One country leads the pack, and at first sight it would seem that <b>Positive rate</b> can explain the big difference.
+
+![Figure 8](/img/img014.png)
+
+![Figure 9](/img/img015.png)
+
+However, I doubt this is the whole... picture. If we overlay <b>Positive rate</b> and New cases per million, we notice a the latter increased faster than the former and this is likely because of the high number of tests conducted in that country during that time interval, as indicated in the media.
+
+![Figure 10](/img/img001.png)
+
+
