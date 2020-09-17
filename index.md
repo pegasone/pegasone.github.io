@@ -50,7 +50,7 @@ However, if we overlay <b>Positive rate</b> and <i><b>New cases per million</b><
 
 ![Figure 10](/img/img001.png)
 
-This is likely due to the high number of tests conducted in that country in June-July, as communicated in the [media](https://www.statista.com/statistics/1111601/covid-19-tests-carried-out-daily-in-the-us/).
+This is likely due to an increasingly high number of tests conducted in that country in June-July, as communicated in the [media](https://www.statista.com/statistics/1111601/covid-19-tests-carried-out-daily-in-the-us/).
 
 ![Figure 11](/img/img016.png)
 
