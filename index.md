@@ -31,4 +31,4 @@ With exception of Qatar, Sweden and the United States appear to have had the hig
 
 ![Figure 6](/img/img013.png)
 
-These plots also indicate that, a "flat" <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%.
+These plots also indicate that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%.
