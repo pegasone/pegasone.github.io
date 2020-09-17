@@ -17,16 +17,16 @@ Notice how this indicator dropped dramatically after peaking out at the beginnin
 
 ![Figure 3](/img/img003.png)
 
-It shows that Qatar successfully controlled the transmission of the disease in its population. Active cases per million dropped almost in sync with the positive rate.
+It shows that Qatar successfully controlled the transmission of the disease beginning in July. <b>Active cases per million</b> dropped almost in sync with the <b>Positive rate</b>.
 
-Let's see what was going on at the same time in a few other countries: Unites States, France, Spain, Netherlands, and Sweden. I chose these countries because they too are near the top in the active cases per million hierarchy, as can be seen on the heat map.
+Let's see what the situation was at the same time in a few other countries: Unites States, France, Spain, Netherlands, Sweden, and Israel. I chose these countries because they too are near the top on the <b>Active cases per million</b> list, as can be seen on the heat map.
 
 ![Figure 4](/img/img012.png)
 
-We can notice that ...
+We can notice that <b>Active cases per million</b> were almost flat in June-July in Israel, Spain, France, and Netherlands but they were increasing fast in Sweden and the United States.
 
 ![Figure 5](/img/img011.png)
 
-How does this compute with the Positive rate? Easy: ...
+With exception of Qatar, Sweden and the United States appear to have had the highest <b>Positive rate</b> in June-July (some the data for Sweeden is unavaiable).
 
 ![Figure 6](/img/img013.png)
