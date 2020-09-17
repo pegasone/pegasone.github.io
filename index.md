@@ -25,16 +25,16 @@ Let's see what the situation was at the same time in a few other countries: Unit
 
 <b>Active cases per million</b> were almost flat in June-July in Israel, Spain, France, and Netherlands while they were increasing fast in Qatar, Sweden, and the United States.
 
+With the exception of Qatar, Sweden and the United States appear to have the highest <b>Positive rate</b> numbers in June-July (some the data for Sweeden is unavailable).
+
 Notice how numbers blow up again in early September in Spain, France, and Israel; the United States and Netherlands seem to have more control over the situation while Sweden and Qatar clearly are in the best positions.
 
 ![Figure 5](/img/img011.png)
-
-With the exception of Qatar, Sweden and the United States appear to have the highest <b>Positive rate</b> numbers in June-July (some the data for Sweeden is unavailable).
 
 ![Figure 6](/img/img013.png)
 
 These plots also suggest that, an almost flat <b>Active cases per million</b> curve is consistent with a <b>Positive rate</b> of 1%-2%. At a rate of 4% and above it seems almost impossible to stop the daily increase in active cases. 
 
-Central and South America during this time told a very different story... More to come.
+Central and South America during this time tell us a very different story... More to come.
 
 ![Figure 7](/img/img006.png)
