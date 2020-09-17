@@ -19,14 +19,14 @@ Notice how this indicator dropped dramatically after peaking out at the beginnin
 
 It shows that Qatar successfully controlled the transmission of the disease in its population. Active cases per million dropped almost in sync with the positive rate.
 
-Let's see what was going on at the same time in a few other countries.
+Let's see what was going on at the same time in a few other countries: Unites States, France, Spain, Netherlands, and Sweden. I chose these countries because they too are near the top in the active cases per million hierarchy, as can be seen on the heat map.
 
-![Figure 4](/img/img011.png)
+![Figure 4](/img/img012.png)
 
-I chose these countries because they too are neat the top in the hierechy for , as can be seen from the heat map.
+We can notice that ...
 
-![Figure 5](/img/img012.png)
+![Figure 5](/img/img011.png)
 
-How does this compute with the Positive rate?
+How does this compute with the Positive rate? Easy: ...
 
 ![Figure 6](/img/img013.png)
