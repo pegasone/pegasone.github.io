@@ -1,7 +1,7 @@
 # pegasone.github.io
 PROJECTS
 
-<a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots take in this Windows 10 Desktop app.
+<a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots taken in this Windows 10 Desktop app.
 
 GALLERY
 
