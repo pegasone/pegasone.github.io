@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECT COV2CON
 
 <a href="https://github.com/pegasone/cov2con">Cov-2 Condition</a> — A visualization and exploration instrument for COVID-19 pandemic data. The Gallery that follows is a suite of screenshots taken in this Windows 10 Desktop app.
 
@@ -40,13 +40,13 @@ Central and South America during this time tell us a very different story... Mor
 
 ![Figure 7](/img/img006.png)
 
-Let's see how The Five Eyes did. One country leads the pack, and at first sight it would seem that <b>Positive rate</b> can explain the big difference.
+Let's see how The Five Eyes did. One country leads the pack, and at a first glance it would seem that <b>Positive rate</b> can explain the big difference.
 
 ![Figure 8](/img/img014.png)
 
 ![Figure 9](/img/img015.png)
 
-However, I doubt this is the whole... picture. If we overlay <b>Positive rate</b> and New cases per million, we notice a the latter increased faster than the former and this is likely because of the high number of tests conducted in that country during that time interval, as indicated in the media.
+However, if we overlay <b>Positive rate</b> and <ins><b>New cases per million</b></ins> (not presented in COV2CON), we notice the latter increased faster than the former and this is likely because of the high number of tests conducted in that country at that time, as indicated in the media.
 
 ![Figure 10](/img/img001.png)
 
