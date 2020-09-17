@@ -26,9 +26,9 @@ Let's see what the situation was at that time in a few other countries: Unites S
 
 <b>Active cases per million</b> were almost flat in June-July in Israel, Spain, France, and Netherlands while they were increasing fast in Qatar, Sweden, and the United States.
 
-With the exception of Qatar, Sweden and the United States appear to have the highest <b>Positive rate</b> numbers in June-July (some the data for Sweeden is unavailable).
+Qatar notwithstanding, Sweden and the United States appear to have the highest <b>Positive rate</b> numbers in June-July (some the data for Sweden is unavailable).
 
-Notice how numbers blow up again in early September in Spain, France, and Israel; the United States and Netherlands seem to have more control over the situation while Sweden and Qatar clearly are in the best positions.
+Notice how numbers blow up again in early September in Spain, France, and Israel. United States and Netherlands seem to have more control over the situation while Sweden and Qatar are in the best positions.
 
 ![Figure 5](/img/img011.png)
 
@@ -50,7 +50,7 @@ However, if we overlay <b>Positive rate</b> and <i><b>New cases per million</b><
 
 ![Figure 10](/img/img001.png)
 
-This is likely due to an increasingly high number of tests conducted in that country in June-July, as communicated in the [media](https://www.statista.com/statistics/1111601/covid-19-tests-carried-out-daily-in-the-us/).
+This is likely due to an increasingly high number of tests conducted in that country in June-July, peaking end of July, as communicated in the [media](https://www.statista.com/statistics/1111601/covid-19-tests-carried-out-daily-in-the-us/).
 
 ![Figure 11](/img/img016.png)
 
