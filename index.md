@@ -57,40 +57,42 @@ This is likely due to an increasingly high number of tests conducted in that cou
 
 <h4>2020-09-23</h4>
 
-What is all this ruckus about a new wave of COVID-19? Let's hve a look at the data in Europe and North America.
+What is all this ruckus about a new wave of COVID-19? Let's have a look at the data in Europe and North America.
 
 I'm cherry-picking 7 countries in Western Europe: Netherlands, France, Germany, Spain, Italy, Austria, and Switzerland.
 
 ![Figure 11](/img/img017.png)
 ![Figure 12](/img/img018.png)
 
-It interesting that Germany can be considered a "negative control" (if you are a Biologist...) and Spain maybe like some kind of "positive control", in this case. Clearly there is an increase in the positive rate in most of these countries, which matches a spike in active cases per million in Netherlands, France and Spain.
+It's interesting that Germany can act as a "negative control" and Spain maybe as a "positive control" (if you are a Biologist, you know what I mean), in this case. Clearly there is an increase in positive rate in most of these countries, which matches spikes in active cases per million in Netherlands, France and Spain.
 
-How about Central Europe? Another round of pick-and-choose: Poland, Czech Republic, Slovakia, Hungary, Croatia, Serbia, and Slovenia.
+How about Central Europe? Here comes another round of pick-and-choose: Poland, Czech Republic, Slovakia, Hungary, Croatia, Serbia, and Slovenia.
 
 ![Figure 13](/img/img019.png)
 ![Figure 14](/img/img020.png)
 
-A trend simililar to the one in Western Europe is observed in Central Europe, with a spike in active cases per million in the Chech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
+A trend simililar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Chech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
 
-Now Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
+Now in Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
 
 ![Figure 15](/img/img021.png)
 ![Figure 16](/img/img022.png)
 
-While Belarus looks in suprisingly good shape, the outher 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
+While Belarus looks in suprisingly good shape, the other 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
 
-And now, Northern Europe: Norway, Denmark, Sweden, Finland, Estonia, Latvia, and Lithuania.
+Wrapping up this region is Northern Europe: Norway, Denmark, Sweden, Finland, Estonia, Latvia, and Lithuania.
 
 ![Figure 17](/img/img023.png)
 ![Figure 18](/img/img024.png)
 
-Interesting: almost flat and cose to zero positive rate curves and yet big spikes in avive caes per million Sweden and Denmark. This could simply mean that these two countries have recently tested a lot more people than before, but it's a trend to watch.
+Interesting: almost flat and close to zero positive rate curves and yet big spikes in active cases per million in Sweden and Denmark. This could simply mean that these two countries have recently tested a lot more people than before, but it's a trend to watch.
 
 Finally, let's take a look at North America: Canada, United States, and Mexico.
 
 ![Figure 19](/img/img025.png)
 ![Figure 20](/img/img026.png)
 
-Yeah... I don't know about you but I see a big discrepancy here: in the US, the positive rate remains quite elevated andnthey likely conduct a lot of tests, so that would eplain the spike in active cases per million. However, in Mexico the positice rate is at "historical rates" and active case sper million have dtopped almost to zero?! 
+I don't know about you but I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historicaly" low rates and active cases per million have dropped almost to zero? Sure...
+
+Okay, so what I see is recent spikes in positive rate and active cases per million in a few but not all European countries. Next week we'll hopefully know more.
 
