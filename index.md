@@ -73,13 +73,24 @@ How about Central Europe? Another round of pick-and-choose: Poland, Czech Republ
 
 A trend simililar to the one in Western Europe is observed in Central Europe, with a spike in active cases per million in the Chech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
 
-Now Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, an Moldova (with the caveat tha positive rate data is not available for Moldova).
+Now Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
 
 ![Figure 15](/img/img021.png)
 ![Figure 16](/img/img022.png)
 
 While Belarus looks in suprisingly good shape, the outher 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
 
-Finally, Northern Europe: 
+And now, Northern Europe: Norway, Denmark, Sweden, Finland, Estonia, Latvia, and Lithuania.
 
+![Figure 17](/img/img023.png)
+![Figure 18](/img/img024.png)
+
+Interesting: almost flat and cose to zero positive rate curves and yet big spikes in avive caes per million Sweden and Denmark. This could simply mean that these two countries have recently tested a lot more people than before, but it's a trend to watch.
+
+Finally, let's take a look at North America: Canada, United States, and Mexico.
+
+![Figure 19](/img/img025.png)
+![Figure 20](/img/img026.png)
+
+Yeah... I don't know about you but I see a big discrepancy here: in the US, the positive rate remains quite elevated andnthey likely conduct a lot of tests, so that would eplain the spike in active cases per million. However, in Mexico the positice rate is at "historical rates" and active case sper million have dtopped almost to zero?! 
 
