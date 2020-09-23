@@ -92,7 +92,7 @@ Finally, let's take a look at North America: Canada, United States, and Mexico.
 ![Figure 19](/img/img025.png)
 ![Figure 20](/img/img026.png)
 
-I don't know about you but I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historicaly" low rates and active cases per million have dropped almost to zero? Sure...
+I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historicaly" low rates and yet active cases per million have dropped almost to zero? Well, this would be possible I guess if they conducted only a few tests per day. Sure...
 
 Okay, so what I see is recent spikes in positive rate and active cases per million in a few but not all European countries. Next week we'll hopefully know more.
 
