@@ -55,3 +55,31 @@ This is likely due to an increasingly high number of tests conducted in that cou
 ![Figure 11](/img/img016.png)
 
 
+<h4>2020-09-23</h4>
+
+What is all this ruckus about a new wave of COVID-19? Let's hve a look at the data in Europe and North America.
+
+I'm cherry-picking 7 countries in Western Europe: Netherlands, France, Germany, Spain, Italy, Austria, and Switzerland.
+
+![Figure 11](/img/img017.png)
+![Figure 12](/img/img018.png)
+
+It interesting that Germany can be considered a "negative control" (if you are a Biologist...) and Spain maybe like some kind of "positive control", in this case. Clearly there is an increase in the positive rate in most of these countries, which matches a spike in active cases per million in Netherlands, France and Spain.
+
+How about Central Europe? Another round of pick-and-choose: Poland, Czech Republic, Slovakia, Hungary, Croatia, Serbia, and Slovenia.
+
+![Figure 13](/img/img019.png)
+![Figure 14](/img/img020.png)
+
+A trend simililar to the one in Western Europe is observed in Central Europe, with a spike in active cases per million in the Chech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
+
+Now Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, an Moldova (with the caveat tha positive rate data is not available for Moldova).
+
+![Figure 15](/img/img021.png)
+![Figure 16](/img/img022.png)
+
+While Belarus looks in suprisingly good shape, the outher 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
+
+Finally, Northern Europe: 
+
+
