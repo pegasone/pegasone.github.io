@@ -99,6 +99,6 @@ Okay, so what I see is recent spikes in positive rate and active cases per milli
 
 <h4>2020-09-24</h4>
 
-Here is another heat map of <b>Active cases per million</b>, generated today. The overall appearance has not changed much from one week ago. The more yellow the colour of a country, the higher the likelihood that you will find yourself surrounded by people who have tested COVID-19-positive (molecular test, not signs & symptoms) should you travel to that country around this date.
+Here is another heat map of <b>Active cases per million</b>, generated today. The overall appearance has not changed much from one week ago. The more yellow the colour of a country, the higher the likelihood that you will find yourself surrounded by people who have tested COVID-19-positive (molecular test, not signs & symptoms) should you travel to that country in the near future.
 
 ![Figure 21](/img/img027.png)
