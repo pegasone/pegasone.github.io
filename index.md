@@ -96,3 +96,9 @@ I see a big discrepancy here: in the US, the positive rate remains quite elevate
 
 Okay, so what I see is recent spikes in positive rate and active cases per million in a few but not all European countries. Next week we'll hopefully know more.
 
+
+<h4>2020-09-23</h4>
+
+A heat map of <b>Active cases per million</b>, generated today. The more yellow the colour, the higher the likelihood that you will find yourself surrounded by people who tested COVID-19-positive (molecular test, mind you, not signs & symptoms) should you travel to that country around this date.
+
+![Figure 21](/img/img027.png)
