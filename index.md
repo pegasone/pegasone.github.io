@@ -71,7 +71,7 @@ How about Central Europe? Here comes another round of pick-and-choose: Poland, C
 ![Figure 13](/img/img019.png)
 ![Figure 14](/img/img020.png)
 
-A trend similar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Czech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
+A trend similar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Czech Republic and Hungary, and somewhat less in Poland and Slovakia. The plot sections for Serbia are inconsistent though.
 
 Now in Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
 
