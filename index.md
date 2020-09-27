@@ -14,7 +14,7 @@ It shows that in Qatar this indicator rose fast in May-June 2020 and then it slo
 
 ![Figure 2](/img/img004.png)
 
-Notice how this indicator dropped dramatically after peaking out at the beginning of June. Let me rewrite this: after reaching around 12000 active cases/million on 2020-05-27, this indicator dropped tenfold by mid July and remained stable since then. How is this possible? Let's have look at the <b>Positive rate</b>.
+Notice how this indicator dropped dramatically after peaking out at the beginning of June. Let me rewrite this: after reaching around 12000 active cases/million on 2020-05-27, this indicator dropped tenfold by mid-July and remained stable since then. How is this possible? Let's have a look at the <b>Positive rate</b>.
 
 ![Figure 3](/img/img003.png)
 
@@ -57,7 +57,7 @@ This is likely due to an increasingly high number of tests conducted in that cou
 
 <h4>2020-09-23</h4>
 
-What is all this ruckus about a new wave of COVID-19? Let's have a look at the data in Europe and North America.
+What is this entire ruckus about a new wave of COVID-19? Let's have a look at the data in Europe and North America.
 
 I'm cherry-picking 7 countries in Western Europe: Netherlands, France, Germany, Spain, Italy, Austria, and Switzerland.
 
@@ -71,14 +71,14 @@ How about Central Europe? Here comes another round of pick-and-choose: Poland, C
 ![Figure 13](/img/img019.png)
 ![Figure 14](/img/img020.png)
 
-A trend simililar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Chech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
+A trend similar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Czech Republic and Hungary, and somewhat less in Poland and Slovakia. The curves are inconsistent in Serbia though.
 
 Now in Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
 
 ![Figure 15](/img/img021.png)
 ![Figure 16](/img/img022.png)
 
-While Belarus looks in suprisingly good shape, the other 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
+While Belarus looks in surprisingly good shape, the other 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
 
 Wrapping up this region is Northern Europe: Norway, Denmark, Sweden, Finland, Estonia, Latvia, and Lithuania.
 
@@ -92,7 +92,7 @@ Finally, let's take a look at North America: Canada, United States, and Mexico.
 ![Figure 19](/img/img025.png)
 ![Figure 20](/img/img026.png)
 
-I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historicaly" low rates and yet active cases per million have dropped almost to zero? Well, this would be possible I guess if they conducted only a few tests per day. Sure...
+I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historically" low rates and yet active cases per million have dropped almost to zero? Well, this would be possible I guess if they conducted only a few tests per day. Sure...
 
 Okay, so what I see is recent spikes in positive rate and active cases per million in a few but not all European countries. Next week we'll hopefully know more.
 
@@ -106,14 +106,16 @@ Here is a heat map of <b>Active cases per million</b>, updated today. The overal
 
 <h4>2020-09-26</h4>
 
-By now you must have realized that, not all countries provide data for each of the three indicators and on each day. You may be wondering, how can I quickly find  countries where the COVID-19 sitation has recently gotten worse? Here is one way to do it.
+By now you must have realized that, not all countries provide data for each of the three indicators and on each day. You may be wondering, how can one quickly find  countries where the COVID-19 situation has recently gotten worse? Here is one way to do it.
 
-Head over to the active cases per million indicator. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available the day before. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in active cases per million. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
+Head over to the active cases per million indicator. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in active cases per million. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
 
 ![Figure 22](/img/img028.png)
 
-Without changing the  selection, switch to the positive rate indicator. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no positive rate data available for Costa Rica. 
+Without changing the  selection, switch over to the positive rate indicator. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no positive rate data available for Costa Rica. 
 
 ![Figure 23](/img/img029.png)
 
 For consistency, we need both criteria to be met. By cross-referencing the two results we get: Spain, France, Israel, and Belgium. 
+
+Now, if you repeat these steps further down the country list you get: United Kingdom, Netherlands, Czech Republic, Ukraine, Portugal...
