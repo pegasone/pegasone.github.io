@@ -116,6 +116,4 @@ Without changing the  selection, switch over to the positive rate indicator. On 
 
 ![Figure 23](/img/img029.png)
 
-For consistency, we need both criteria to be met. By cross-referencing the two results we get: Spain, France, Israel, and Belgium. 
-
-Now, if you repeat these steps further down the country list you get: United Kingdom, Netherlands, Czech Republic, Ukraine, Portugal...
+For consistency, we need both criteria to be met. By cross-referencing the two results we get: Spain, France, Israel, and Belgium. By repeating these steps further down the country list we get: United Kingdom, Netherlands, Czech Republic, Ukraine, Portugal...
