@@ -125,8 +125,8 @@ By repeating these steps further down the country list we get: United Kingdom, N
 
 I trust that by now you agree that:
 
-* In the absence of COVID-19 signs and symptoms, Cov-2 positive laboratory tests (e.g., PCR) have limited value.
-* New cases, assuming the diagnostic criteria also include signs and symptoms, are important for resource allocation in the healthcare system but are nto a good measurement of pandemic progression. 
-* Total (confirmed, or cumulated) cases are the least relevant indicator as it does not factor in recovered cases and deaths.
+• In the absence of COVID-19 signs and symptoms, Cov-2 positive laboratory tests (e.g., PCR) have limited value.
+• New cases, assuming the diagnostic criteria also include signs and symptoms, are important for resource allocation in the healthcare system but are nto a good measurement of pandemic progression. 
+• Total (confirmed, or cumulated) cases are the least relevant indicator as it does not factor in recovered cases and deaths.
 
 For these reasons, the most relevant indicators for pandemic worsening or progression are the positive rate and, to some extent, active cases per million.
