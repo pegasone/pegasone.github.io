@@ -138,7 +138,7 @@ ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product 
 
 ![Figure 24](/img/img030.png)
 
-This graph indicates a recent worsening in the following countries: Spain, Israel but also France, Czech Republic, Netherlands, Hungary, and Belgium. Tunisia and Lybia were skipped due to data inconsistencies.
+This graph indicates a COVID-19 pandemic worsening in the last 14 days in the following countries: Spain, Israel but also France, Czech Republic, Netherlands, Hungary, and Belgium. Tunisia and Lybia were skipped due to data inconsistencies.
 
 For reference, the corresponding screenshots of Positive rate and Active cases per million are included.
 
