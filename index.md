@@ -154,7 +154,7 @@ This is work in progress and the exact definition of the ACPO-14 indicator may u
 
 I have recently had a conversation with someone who thinks the reported numbers for their country are wrong because "they don't make sense". Specifically, they think that active case numbers should have decreased after the first peak; apparently, this assumption is not consistent with the recovered cases and deaths reported for their country. 
 
-As I mentioned before, while the positive rate remains above 2% and many PCR tests are carried out, the active case count does not seem to decrease; further research is required for confirmation.
+As I mentioned before, while the positive rate remains above 2% and lots of molecular diagnostic tests are carried out, the active case count does not seem to decrease; further research is required for confirmation.
 
 I have come to realize that what I am trying to do with ACPO-14 is not so different: finding a consolidated, artificial indicator that fits my intuition of the pandemic progression. Now I think that my approach was wrong. However incomplete and inconsistent, reported data comes first and one cannot ignore it. For this reason, I have stopped trying to find an acceptable consolidated indicator. 
 
