@@ -129,4 +129,20 @@ I trust that by now you agree that:
 • New cases, assuming the diagnostic criteria also include COVID-19 signs and symptoms, is an important indicator for resource allocation in the healthcare system but is not a good measurement of pandemic progression as it confounded by New tests.<br/>
 • Total (confirmed, or cumulated) cases is the least relevant indicator for evaluating the current COVID-19 situation. Active cases per million is better as it also factors in recovered cases and deaths and it is normalized to the country population.
 
-For these reasons, the most relevant indicators for pandemic worsening or progression are Positive rate and, to some extent, Active cases per million. We can use these two to create a consolidated indicator.
+For these reasons, the most relevant indicators for pandemic worsening or progression are Positive rate and, to some extent, Active cases per million. We can use these two to create a consolidated indicator: ACPO-14.
+
+
+<h4>2020-10-01</h4>
+
+ACPO-14 stands for Active & Positive + 14 days. It's calculated as the product of the average Positive rate and the slope of the Active cases per million, both over the last 14 days (the slope allows for 1-2 day worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all). Here it is:
+
+![Figure 24](/img/img030.png)
+
+This graph indicates a recent worsening in the following countries: Spain, Israel, France, Czech Republic, Netherlands, Hungary, and Belgium. I skipped Tunisia and Lybia for now due to data inconsistencies.
+
+For reference, I included the corresponding screenshots for Positive rate and Active cases per million.
+
+![Figure 25](/img/img031.png)
+![Figure 26](/img/img032.png)
+
+This is work in progress and the exact definition of the ACPO-14 indicator may undergo optimizations.
