@@ -134,7 +134,7 @@ For these reasons, the most relevant indicators for pandemic worsening or progre
 
 <h4>2020-10-01</h4>
 
-ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product of the average Positive rate and the slope of the Active cases per million over the last 14 days (the slope allows for 1-2 days worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all). Here is the first screenshot:
+ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product of the average Positive rate and the slope of the Active cases per million over the last 14 days (where both data are available; the slope allows for 1-2 days worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all). Here is the first screenshot:
 
 ![Figure 24](/img/img030.png)
 
