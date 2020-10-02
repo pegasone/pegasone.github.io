@@ -146,3 +146,14 @@ For reference, the corresponding screenshots of Positive rate and Active cases p
 ![Figure 26](/img/img032.png)
 
 This is work in progress and the exact definition of the ACPO-14 indicator may undergo further optimizations.
+
+
+<h4>2020-10-02</h4>
+
+I have recently had a conversation with someone who thinks the reported numbers for their country are wrong, just because they don't make sense. Specifically, they think that active case numbers should have decreased after the first peak; apparently, this assumption is not consistent with the recovered cases and deaths reported for their country. 
+
+As I mentioned before, if the positive rate remains above 2% and many PCR tests are carried out, the active case count does not seem to decrease with time; further research is required for confirmation.
+
+I have come to realize that what I am trying to do with ACPO-14 is not so different: finding a consolidated, artificial indicator that fits my intuition of the pandemic progression. Now I think that my approach is wrong. However incomplete and inconsistent, reported data comes first and one cannot ignore it. For this reason, I stopped trying to find an acceptable consolidated indicator. 
+
+ACPO-14 is to stay in COV2CON and I will update the app only if bugfixes are needed but otherwise I will not develop it any further.
