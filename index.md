@@ -145,7 +145,9 @@ For reference, the corresponding screenshots of Positive rate and Active cases p
 ![Figure 25](/img/img031.png)
 ![Figure 26](/img/img032.png)
 
-This is work in progress and the exact definition of the ACPO-14 indicator may undergo further optimizations.
+This is work in progress and the exact definition of the ACPO-14 indicator may undergo further optimizations. Enjoy the (map) view! ;)
+
+![Figure 27](/img/img033.png)
 
 
 <h4>2020-10-02</h4>
