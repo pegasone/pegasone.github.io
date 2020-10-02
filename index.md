@@ -134,7 +134,7 @@ For these reasons, the most relevant indicators for pandemic worsening or progre
 
 <h4>2020-10-01</h4>
 
-ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product of the average Positive rate and the slope of the Active cases per million over the last 14 days (where both data are available; the slope allows for 1-2 days worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all). Here is the first screenshot:
+ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product of the average Positive rate and the slope of the Active cases per million over the last 14 days (where both data are available; the slope allows for 1-2 days worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. Here is the first screenshot:
 
 ![Figure 24](/img/img030.png)
 
@@ -152,7 +152,7 @@ This is work in progress and the exact definition of the ACPO-14 indicator may u
 
 <h4>2020-10-02</h4>
 
-I have recently had a conversation with someone who thinks the reported numbers for their country are wrong, just because they don't make sense. Specifically, they think that active case numbers should have decreased after the first peak; apparently, this assumption is not consistent with the recovered cases and deaths reported for their country. 
+I have recently had a conversation with someone who thinks the reported numbers for their country are wrong because "they don't make sense". Specifically, they think that active case numbers should have decreased after the first peak; apparently, this assumption is not consistent with the recovered cases and deaths reported for their country. 
 
 As I mentioned before, while the positive rate remains above 2% and many PCR tests are carried out, the active case count does not seem to decrease; further research is required for confirmation.
 
