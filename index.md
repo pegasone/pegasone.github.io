@@ -139,7 +139,7 @@ ACPO-14 stands for Active & Positive + 14 days. It's calculated as the product o
 
 ![Figure 24](/img/img030.png)
 
-This graph indicates a recent worsening in the following countries: Spain, Israel, France, Czech Republic, Netherlands, Hungary, and Belgium. I skipped Tunisia and Lybia for now due to data inconsistencies.
+This graph indicates a recent worsening in the following countries: Spain, Israel, France, Czech Republic, Netherlands, Hungary, and Belgium. I skipped Tunisia and Lybia due to data inconsistencies.
 
 For reference, I included the corresponding screenshots for Positive rate and Active cases per million.
 
