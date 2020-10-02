@@ -156,6 +156,6 @@ I have recently had a conversation with someone who thinks the reported numbers 
 
 As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
 
-I have come to realize that what I am trying to do with ACPO-14 is not so different — finding a consolidated, artificial indicator that fits my intuition of the pandemic progression. Now I think that my approach was wrong. However incomplete and inconsistent, reported data comes first and discrepancies must be taken into account before dawing any conclusion. For these reasons, I have stopped trying to find an acceptable consolidated indicator. 
+I have come to realize that what I am trying to do with ACPO-14 is not so different — finding a consolidated, artificial indicator that fits my intuition of the pandemic progression. Now I think that my approach was wrong. However incomplete and inconsistent, reported data comes first and cannot be ignored. Discrepancies are to be taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an acceptable consolidated indicator. 
 
 ACPO-14 is to stay in COV2CON and the app will be updated if bugfixes are needed, otherwise I shall not develop it any further.
