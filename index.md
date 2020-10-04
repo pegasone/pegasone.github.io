@@ -129,12 +129,16 @@ I trust that by now you would agree that:
 • New cases, assuming the diagnostic criteria also include COVID-19 signs and symptoms, is an important indicator for resource allocation in the healthcare system but is not a good measurement of pandemic progression as it is confounded by New tests.<br/>
 • Total (confirmed, or cumulated) cases is the least relevant indicator for evaluating the current COVID-19 situation. Active cases per million is better as it also factors in recovered cases and deaths and it is normalized to the country population.
 
-For these reasons, the most relevant indicators for pandemic worsening or progression are Positive rate and, to some extent, Active cases per million. We can use these two to create a consolidated indicator: ACPO-14.
+For these reasons, the most relevant indicators for pandemic worsening or progression are Positive rate and, to some extent, Active cases per million. We can use these two to create a consolidated indicator: <b>ACPO-14</b>.
 
 
 <h4>2020-10-01</h4>
 
-ACPO-14 stands for "Active & Positive 14 days". It is calculated as the product of the average Positive rate and the slope of the Active cases per million over the last 14 days (where both data are available; the slope allows for 1-2 days worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. Here is the first screenshot:
+<b>ACPO-14</b> stands for "Active & Positive 14 days". It is computed as the product of the average <b>Positive rate</b> and the slope of <p>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. It fits one intuition of pandemic risk. Feel free to ignore it or have fun with it. 
+
+The idea behind <b>ACPO-14</b> is simple. Intuitively, the pandemic risk at a particular location increases with the positive rate and the density of active cases. If the positive rate drops to zero (i.e., there is no transmission) then it doesn’t really matter how many active cases there are as no more people will become infected. When the pandemic began, active cases were non-zero and the positive rate was high but the pandemic risk was still minimal as there were not many people who could transmit the infection. Last but not least, on any particular date <b>Positive rate</b> is a property of that point in time while <b>Active cases per million</b> is a reflection of the last six weeks of the pandemic, so together they describe a trend. If this was about a room being flooded with water, imagine that the former is the volume of water already in the room and the latter is the speed at which water is flowing into the room: the greater any of them, the higher the risk of drowning to the people who are in the room.
+
+Here is the first screenshot:
 
 ![Figure 24](/img/img030.png)
 
@@ -152,10 +156,10 @@ This is work in progress and the exact definition of the ACPO-14 indicator may u
 
 <h4>2020-10-02</h4>
 
-I have recently had a conversation with someone who thinks the reported numbers for their country are wrong because they "don't make sense". Specifically, they think that active case numbers should have decreased after the first peak and this assumption is not consistent with the recovered cases and deaths reported for their country. 
+I have recently had a conversation with someone who thinks the reported numbers for their country are wrong because they "don't make sense". Specifically, the person thinks that active case numbers should have decreased after the first peak and this assumption is not consistent with the recovered cases and deaths reported for their country. 
 
 As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
 
-I have come to realize that what I am trying to do with ACPO-14 is not so different — finding a consolidated, artificial indicator that fits my intuition of the pandemic progression. Now I think that my approach was wrong. However incomplete and inconsistent, reported data comes first and cannot be ignored. Discrepancies are to be taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an acceptable consolidated indicator. 
+However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of the pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an acceptable consolidated indicator. 
 
 ACPO-14 is to stay in COV2CON and the app will be updated if bugfixes are needed, otherwise I shall not develop it any further.
