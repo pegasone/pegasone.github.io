@@ -108,11 +108,11 @@ Here is a heat map of <b>Active cases per million</b>, updated today. The overal
 
 By now you must have realized that, not all countries provide data for each of the three indicators and on each day. You may be wondering, how can one quickly find  countries where the COVID-19 situation has recently gotten worse? Here is one way to do it.
 
-Head over to <b>Active cases per million</b> indicator. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in <b>Active cases per million</b>. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
+Head over to <b>Active cases per million</b>. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in <b>Active cases per million</b>. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
 
 ![Figure 22](/img/img028.png)
 
-Without changing the  selection, switch to <b>Positive rate</b>. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no <b>Positive rat</b>e data available for Costa Rica. 
+Without changing the  selection, switch to <b>Positive rate</b>. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no <b>Positive rate</b> data available for Costa Rica. 
 
 ![Figure 23](/img/img029.png)
 
@@ -160,6 +160,6 @@ I have recently had a conversation with someone who thought the reported numbers
 
 As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
 
-However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of  pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an intuitive consolidated indicator. 
+However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of  pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find a better intuitive consolidated indicator. 
 
 <b>ACPO-14</b> is to stay in COV2CON and the app will be updated only if bugfixes are needed.
