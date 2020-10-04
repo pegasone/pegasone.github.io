@@ -108,11 +108,11 @@ Here is a heat map of <b>Active cases per million</b>, updated today. The overal
 
 By now you must have realized that, not all countries provide data for each of the three indicators and on each day. You may be wondering, how can one quickly find  countries where the COVID-19 situation has recently gotten worse? Here is one way to do it.
 
-Head over to the active cases per million indicator. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in active cases per million. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
+Head over to <b>Active cases per million</b> indicator. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in <b>Active cases per million</b>. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
 
 ![Figure 22](/img/img028.png)
 
-Without changing the  selection, switch over to the positive rate indicator. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no positive rate data available for Costa Rica. 
+Without changing the  selection, switch to <b>Positive rate</b>. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no <b>Positive rat</b>e data available for Costa Rica. 
 
 ![Figure 23](/img/img029.png)
 
@@ -129,14 +129,14 @@ I trust that by now you would agree that:
 • New cases, assuming the diagnostic criteria also include COVID-19 signs and symptoms, is an important indicator for resource allocation in the healthcare system but is not a good measurement of pandemic progression as it is confounded by New tests.<br/>
 • Total (confirmed, or cumulated) cases is the least relevant indicator for evaluating the current COVID-19 situation. Active cases per million is better as it also factors in recovered cases and deaths and it is normalized to the country population.
 
-For these reasons, the most relevant indicators for pandemic worsening or progression are Positive rate and, to some extent, Active cases per million. We can use these two to create a consolidated indicator: <b>ACPO-14</b>.
+For these reasons, the most relevant indicators for pandemic worsening or progression are <b>Positive rate</b> and, to some extent, <b>Active cases per million</b>. We can use these two to create a consolidated indicator: <b>ACPO-14</b>.
 
 
 <h4>2020-10-01</h4>
 
-<b>ACPO-14</b> stands for "Active & Positive 14 days". It is computed as the product of the average <b>Positive rate</b> and the slope of <p>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. It fits one intuition of pandemic risk. Feel free to ignore it or have fun with it. 
+<b>ACPO-14</b> stands for "Active & Positive 14 days". It is computed as the product of the average <b>Positive rate</b> and the slope of <p>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. 
 
-The idea behind <b>ACPO-14</b> is simple. Intuitively, the pandemic risk at a particular location increases with the positive rate and the density of active cases. If the positive rate drops to zero (i.e., there is no transmission) then it doesn’t really matter how many active cases there are as no more people will become infected. When the pandemic began, active cases were non-zero and the positive rate was high but the pandemic risk was still minimal as there were not many people who could transmit the infection. Last but not least, on any particular date <b>Positive rate</b> is a property of that point in time while <b>Active cases per million</b> is a reflection of the last six weeks of the pandemic, so together they describe a trend. If this was about a room being flooded with water, imagine that the former is the volume of water already in the room and the latter is the speed at which water is flowing into the room: the greater any of them, the higher the risk of drowning to the people who are in the room.
+The idea behind <b>ACPO-14</b> is simple. Intuitively, the pandemic risk at a particular location increases with the positive rate and the density of active cases. If the positive rate drops to zero (i.e., there is no transmission) then it doesn’t really matter how many active cases there are as no more people will become infected. When the pandemic began, active cases were non-zero and the positive rate was high but the pandemic risk was still minimal as there were not many people who could transmit the infection. Last but not least, on any particular date <b>Positive rate</b> is a property of that point in time while <b>Active cases per million</b> is a reflection of the last six weeks of the pandemic, so together they describe a trend. If this was about people in a room being flooded with water, imagine that the former is the volume of water already in the room and the latter is the speed at which water is flowing into the room: the greater any of them, the higher the risk of drowning soon to the people who are in the room.
 
 Here is the first screenshot:
 
@@ -144,22 +144,22 @@ Here is the first screenshot:
 
 This graph indicates a COVID-19 pandemic worsening in the last 14 days in the following countries: Spain, Israel but also France, Czech Republic, Netherlands, Hungary, and Belgium. Tunisia and Lybia were skipped due to data inconsistencies.
 
-For reference, the corresponding screenshots of Positive rate and Active cases per million are included.
+For reference, the corresponding screenshots of <b>Positive rate</b> and <b>Active cases per million</b> are included.
 
 ![Figure 25](/img/img031.png)
 ![Figure 26](/img/img032.png)
 
-This is work in progress and the exact definition of the ACPO-14 indicator may undergo further optimizations. Enjoy the (map) view! ;)
+This is work in progress and the exact definition of the <b>ACPO-14</b> indicator may undergo further optimizations. Enjoy the (map) view! ;)
 
 ![Figure 27](/img/img033.png)
 
 
 <h4>2020-10-02</h4>
 
-I have recently had a conversation with someone who thinks the reported numbers for their country are wrong because they "don't make sense". Specifically, the person thinks that active case numbers should have decreased after the first peak and this assumption is not consistent with the recovered cases and deaths reported for their country. 
+I have recently had a conversation with someone who thought the reported numbers for their country are wrong because they "don't make sense". Specifically, the person thought that active case numbers should have decreased after the first peak and this assumption is not consistent with the recovered cases and deaths reported for their country. 
 
 As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
 
-However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of the pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an acceptable consolidated indicator. 
+However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of  pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find an intuitive consolidated indicator. 
 
-ACPO-14 is to stay in COV2CON and the app will be updated if bugfixes are needed, otherwise I shall not develop it any further.
+<b>ACPO-14</b> is to stay in COV2CON and the app will be updated only if bugfixes are needed.
