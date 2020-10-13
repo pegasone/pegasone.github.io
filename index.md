@@ -163,3 +163,17 @@ As mentioned before, while the positive rate remains above 2% the active case co
 However, I have come to realize that what I am trying to do with <b>ACPO-14</b> is not so different — finding a consolidated, artificial indicator that fits my intuition of  pandemic risk. However incomplete and inconsistent, reported data comes first and cannot be ignored. Obvious discrepancies and inconsistencies must be noted and taken into account before drawing any conclusion. For these reasons, I have stopped trying to find a better intuitive consolidated indicator. 
 
 <b>ACPO-14</b> is to stay in COV2CON and the app will be updated only if bugfixes are needed.
+
+
+<h4>2020-10-13</h4>
+
+I have chosen to pronounce <b>ACPO-14</b> as Asclepius; it's easier and more intuitive this way. So, let's take a the Asclepius index list today:
+
+![Figure 28](/img/img034.png)
+
+The now usual suspects still occupy the Top 10. Argentina is bizarre not only because it has a positive rate that has went through the roof lately but also because it keeps adjusting its active case count. However, several countries appear to have been doing this kind of adjustments lately, legit or not.
+
+![Figure 29](/img/img035.png)
+![Figure 30](/img/img036.png)
+
+
