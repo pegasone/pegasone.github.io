@@ -167,7 +167,7 @@ However, I have come to realize that what I am trying to do with <b>ACPO-14</b> 
 
 <h4>2020-10-13</h4>
 
-I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'ASKLEPIOS'. Let's take a look at the ASKLEPIOS-14 (or just ASKLEPIOS, for short) index today:
+I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'ASKLEPIOS'. Let's take a look at ASKLEPIOS-14, or the ASKLEPIOS index today.
 
 ![Figure 28](/img/img034.png)
 
