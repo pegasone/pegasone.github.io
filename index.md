@@ -167,11 +167,11 @@ However, I have come to realize that what I am trying to do with <b>ACPO-14</b> 
 
 <h4>2020-10-13</h4>
 
-I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'Asclepius'. Let's take a the Asclepius index list today:
+I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'Asclepius'. Let's take a look at the Asclepius index today:
 
 ![Figure 28](/img/img034.png)
 
-The usual suspects still occupy the Top 10. Argentina is bizarre not only because it has a positive rate that has went through the roof lately but also because it keeps adjusting its active case count.
+The usual suspects still occupy the Top 10. Argentina is bizarre not only because its positive rate has gone through the roof but also because it keeps adjusting its active case count.
 
 ![Figure 29](/img/img035.png)
 ![Figure 30](/img/img036.png)
