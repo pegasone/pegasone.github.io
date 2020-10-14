@@ -173,3 +173,6 @@ The usual suspects still occupy the Top 10. Argentina is bizarre not only becaus
 ![Figure 30](/img/img036.png)
 
 
+<h4>2020-10-14</h4>
+
+I found a download link to the ECDC .csv file containing COVID-19-related hospital and ICU admissions (EU only). I am considering adding this last indicator to COV2CON. It may be a bit tricky though as reporting is done either daily or weekly and in a slightly different manner across countries.
