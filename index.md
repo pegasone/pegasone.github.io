@@ -129,7 +129,7 @@ I trust that by now you would agree that:
 • New cases, assuming the diagnostic criteria also include COVID-19 signs and symptoms, is an important indicator for resource allocation in the healthcare system but is not a good measurement of pandemic progression as it is confounded by New tests.<br/>
 • Total (confirmed, or cumulated) cases is the least relevant indicator for evaluating the current COVID-19 situation. Active cases per million is better as it also factors in recovered cases and deaths and it is normalized to the country population.
 
-For these reasons, the most relevant indicators for pandemic worsening or progression are <b>Positive rate</b> and, to some extent, <b>Active cases per million</b>. We can use these two to create a consolidated indicator: <b>ACPO-14</b>.
+For these reasons, the most relevant indicators for pandemic worsening or progression are <b>Positive rate</b> and, to some extent, <b>Active cases per million</b>. We can use these two to create a consolidated indicator, or index: <b>ACPO-14</b>.
 
 
 <h4>2020-10-01</h4>
@@ -149,7 +149,7 @@ For reference, the corresponding screenshots of <b>Positive rate</b> and <b>Acti
 ![Figure 25](/img/img031.png)
 ![Figure 26](/img/img032.png)
 
-This is work in progress and the exact definition of the <b>ACPO-14</b> indicator may undergo further optimizations. Enjoy the (map) view! ;)
+This is work in progress and the exact definition of the <b>ACPO-14</b> index may undergo further optimizations. Enjoy the (map) view! ;)
 
 ![Figure 27](/img/img033.png)
 
@@ -163,7 +163,7 @@ As mentioned before, while the positive rate remains above 2% the active case co
 
 <h4>2020-10-13</h4>
 
-I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'ASKLEPIOS'. Let's take a look at ASKLEPIOS-14, or the ASKLEPIOS index today.
+I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'ASKLEPIOS'. Let's take a look at the ASKLEPIOS(-14) index today.
 
 ![Figure 28](/img/img034.png)
 
