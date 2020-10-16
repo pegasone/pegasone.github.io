@@ -175,4 +175,4 @@ The usual suspects still occupy the Top 10. Argentina is bizarre not only becaus
 
 <h4>2020-10-14</h4>
 
-It turns out that the ECDC provides information on COVID-19-related hospital and ICU admissions (EU only). I am considering adding this last indicator to COV2CON. It may be a bit tricky though as reporting is done either daily or weekly and in a slightly different manner across EU countries.
+It turns out that the ECDC provides information on COVID-19-related hospital and ICU admissions (EU only). I have considered adding the latter indicator to COV2CON; however, this is problematic as reporting is done in a slightly different manner across EU countries. For example, while 18 EU countries report daily ICU occupancy, the other 8 countries report new weekly ICU cases per 100K people. 
