@@ -180,6 +180,6 @@ It turns out that the ECDC provides some information on COVID-19-related hospita
 
 <h4>2020-10-16</h4>
 
-Whoa, Czech Republiuc, Netherlands, and Belgium!
+Whoa, Czech Republic, Netherlands, and Belgium!
 
 ![Figure 31](/img/img037.png)
