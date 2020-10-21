@@ -148,7 +148,7 @@ It turns out that the ECDC provides some information on COVID-19-related hospita
 I have revised the definition of ACPO-14 as follows: 
 >ACPO-14 is the <i>square root</i> of the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window) or zero, whichever is greater.
 
-Here is the Top-10 based on the revised definition:
+Here are the Top-7 based on the revised definition:
 
 ![Figure 24](/img/img030.png)
 
