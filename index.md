@@ -134,24 +134,9 @@ For these reasons, the most relevant indicators for pandemic worsening or progre
 
 <h4>2020-10-01</h4>
 
-<b>ACPO-14</b> stands for "Active & Positive 14 days". It is computed as the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater. 
+<b>ACPO-14</b> stands for "Active & Positive 14 days". It is computed as the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window but this is seldom the case, if at all) or zero, whichever is greater (see update 2020-10-21 further below for revised definition).
 
 The idea behind <b>ACPO-14</b> is simple. Intuitively, the pandemic risk at a particular location increases with the positive rate and the density of active cases. If the positive rate drops to zero (i.e., there is no transmission) then it doesn’t really matter how many active cases there are as no more people will become infected. When the pandemic began, active cases were non-zero and the positive rate was high but the pandemic risk was still minimal as there were not many people who could transmit the infection. Last but not least, on any particular date <b>Positive rate</b> is a property of that point in time while <b>Active cases per million</b> is a reflection of the last six weeks of the pandemic, so together they describe a trend. If this was about people in a room being flooded with water, imagine that the former is the volume of water already in the room and the latter is the speed at which water is flowing into the room: the greater any of them, the higher the risk of drowning soon to the people who are in the room.
-
-Here is the first screenshot:
-
-![Figure 24](/img/img030.png)
-
-This graph indicates a COVID-19 pandemic worsening in the last 14 days in the following countries: Spain, Israel but also France, Czech Republic, Netherlands, Hungary, and Belgium. Tunisia and Lybia were skipped due to data inconsistencies.
-
-For reference, the corresponding screenshots of <b>Positive rate</b> and <b>Active cases per million</b> are included.
-
-![Figure 25](/img/img031.png)
-![Figure 26](/img/img032.png)
-
-This is work in progress and the exact definition of the <b>ACPO-14</b> index may undergo further optimizations. Enjoy the (map) view! ;)
-
-![Figure 27](/img/img033.png)
 
 
 <h4>2020-10-02</h4>
@@ -161,25 +146,14 @@ I have recently had a conversation with someone who thought the reported numbers
 As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
 
 
-<h4>2020-10-13</h4>
-
-I find the ACPO in <b>ACPO-14</b> to be more easily pronounced as 'ASKLEPIOS'. Let's take a look at the ASKLEPIOS(-14) index today.
-
-![Figure 28](/img/img034.png)
-
-The usual suspects still occupy the Top 10. Argentina is bizarre not only because its positive rate has gone through the roof but also because it keeps adjusting its active case count.
-
-![Figure 29](/img/img035.png)
-![Figure 30](/img/img036.png)
-
-
 <h4>2020-10-14</h4>
 
 It turns out that the ECDC provides some information on COVID-19-related hospital and ICU admissions (EU only). I have considered adding the latter indicator to COV2CON; however, this is problematic as reporting is done in a slightly different manner across EU countries. For example, while 18 EU countries report daily ICU occupancy, the other 8 countries report new weekly ICU cases per 100K people. 
 
+<h4>2020-10-21</h4>
 
-<h4>2020-10-16</h4>
+I have revised the definition of ACPO-14 as follows: ACPO-14 is the square root of the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window) or zero, whichever is greater.
 
-Whoa, Czech Republic, Netherlands, and Belgium!
+Here is the Top-10 based on the revised definition:
 
-![Figure 31](/img/img037.png)
+![Figure 24](/img/img030.png)
