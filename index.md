@@ -154,4 +154,4 @@ Here is the Top-10 based on the revised definition:
 
 The "winners" are Czech Republic, Belgium, and Netherlands.
 
-The excutable will be updated to v1.3.1 include this change.
+The excutable will be updated to v1.3.1 in the next few days to reflect this change.
