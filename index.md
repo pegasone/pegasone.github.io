@@ -139,20 +139,14 @@ For these reasons, the most relevant indicators for pandemic worsening or progre
 The idea behind <b>ACPO-14</b> is simple. Intuitively, the pandemic risk at a particular location increases with the positive rate and the density of active cases. If the positive rate drops to zero (i.e., there is no transmission) then it doesn’t really matter how many active cases there are as no more people will become infected. When the pandemic began, active cases were non-zero and the positive rate was high but the pandemic risk was still minimal as there were not many people who could transmit the infection. Last but not least, on any particular date <b>Positive rate</b> is a property of that point in time while <b>Active cases per million</b> is a reflection of the last six weeks of the pandemic, so together they describe a trend. If this was about people in a room being flooded with water, imagine that the former is the volume of water already in the room and the latter is the speed at which water is flowing into the room: the greater any of them, the higher the risk of drowning soon to the people who are in the room.
 
 
-<h4>2020-10-02</h4>
-
-I have recently had a conversation with someone who thought the reported numbers for their country are wrong because they "don't make sense". Specifically, the person thought that active case numbers should have decreased after the first peak and this assumption is not consistent with the recovered cases and deaths reported for their country. 
-
-As mentioned before, while the positive rate remains above 2% the active case count does not seem to decrease; further research is required for confirmation. As more molecular diagnostic tests are carried out one would expect the active case count to further increase.
-
-
 <h4>2020-10-14</h4>
 
 It turns out that the ECDC provides some information on COVID-19-related hospital and ICU admissions (EU only). I have considered adding the latter indicator to COV2CON; however, this is problematic as reporting is done in a slightly different manner across EU countries. For example, while 18 EU countries report daily ICU occupancy, the other 8 countries report new weekly ICU cases per 100K people. 
 
 <h4>2020-10-21</h4>
 
-I have revised the definition of ACPO-14 as follows: ACPO-14 is the <i>square root</i> of the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window) or zero, whichever is greater.
+I have revised the definition of ACPO-14 as follows: 
+>ACPO-14 is the <i>square root</i> of the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window) or zero, whichever is greater.
 
 Here is the Top-10 based on the revised definition:
 
