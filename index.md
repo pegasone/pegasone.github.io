@@ -157,3 +157,7 @@ I have revised the definition of ACPO-14 as follows: ACPO-14 is the square root 
 Here is the Top-10 based on the revised definition:
 
 ![Figure 24](/img/img030.png)
+
+The "winners" are Czech Republic, Belgium, and Netherlands.
+
+The excutable will be updated to v1.3.1 include this change.
