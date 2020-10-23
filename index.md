@@ -55,55 +55,6 @@ This is likely due to an increasingly high number of tests conducted in that cou
 ![Figure 11](/img/img016.png)
 
 
-<h4>2020-09-23</h4>
-
-What is this entire ruckus about a new wave of COVID-19? Let's have a look at the data in Europe and North America.
-
-I'm cherry-picking 7 countries in Western Europe: Netherlands, France, Germany, Spain, Italy, Austria, and Switzerland.
-
-![Figure 11](/img/img017.png)
-![Figure 12](/img/img018.png)
-
-It's interesting that Germany can act as a "negative control" and Spain maybe as a "positive control" (if you are a Biologist, you know what I mean), in this case. Clearly there is an increase in positive rate in most of these countries, which matches spikes in active cases per million in Netherlands, France and Spain.
-
-How about Central Europe? Here comes another round of pick-and-choose: Poland, Czech Republic, Slovakia, Hungary, Croatia, Serbia, and Slovenia.
-
-![Figure 13](/img/img019.png)
-![Figure 14](/img/img020.png)
-
-A trend similar to the one in Western Europe is observed in Central Europe, with spikes in active cases per million in the Czech Republic and Hungary, and somewhat less in Poland and Slovakia. The plot sections for Serbia are inconsistent though.
-
-Now in Eastern Europe: Belarus, Ukraine, Romania, Bulgaria, Moldova, and Macedonia (with the caveat that positive rate data is not available for Moldova and Macedonia).
-
-![Figure 15](/img/img021.png)
-![Figure 16](/img/img022.png)
-
-While Belarus looks in surprisingly good shape, the other 4 countries not so much, particularly Ukraine and Moldova. Romania shows an unexpected recent drop in active cases per million that is difficult to interpret.
-
-Wrapping up this region is Northern Europe: Norway, Denmark, Sweden, Finland, Estonia, Latvia, and Lithuania.
-
-![Figure 17](/img/img023.png)
-![Figure 18](/img/img024.png)
-
-Interesting: almost flat and close to zero positive rate curves and yet big spikes in active cases per million in Sweden and Denmark. This could simply mean that these two countries have recently tested a lot more people than before, but it's a trend to watch.
-
-Finally, let's take a look at North America: Canada, United States, and Mexico.
-
-![Figure 19](/img/img025.png)
-![Figure 20](/img/img026.png)
-
-I see a big discrepancy here: in the US, the positive rate remains quite elevated, and they likely continued to conduct a lot of tests, which would help explain the spike in active cases per million. However, in Mexico the positive rate is at "historically" low rates and yet active cases per million have dropped almost to zero? Well, this would be possible I guess if they conducted only a few tests per day. Sure...
-
-Okay, so what I see is recent spikes in positive rate and active cases per million in a few but not all European countries. Next week we'll hopefully know more.
-
-
-<h4>2020-09-24</h4>
-
-Here is a heat map of <b>Active cases per million</b>, updated today. The overall appearance has not changed much from one week ago. The closer to yellow the colour of a country on the map, the higher the likelihood that you would find yourself surrounded by people who have tested positive for COVID-19 (molecular test; clinical manifestation not implied) should you travel to that country in the near future.
-
-![Figure 21](/img/img027.png)
-
-
 <h4>2020-09-29</h4>
 
 I trust that by now you would agree that:
