@@ -137,7 +137,7 @@ Here are the current Top-7 countries based on the revised definition:
 
 The clear "winners" today are Czech Republic, Belgium, and Netherlands.
 
-One word of caution, though: there are countries where the reported data is, let's say, unexpected. For a country to have a very high positive rate and an extremely low active cases per million count is possible by unlikely. Take Mexico on 2020-10-21, for example: positive rate is at 30% (was at 40% 6 weeks before and slowly decreased since then) while active cases per millions appear "stuck" at around 350 since July 2020. This is difficult to believe, to say the least. Other countries have either stopped providing positive rate data or have never provided it at all; compare the sixth image down from 2020-09-17 with the one below and notice that the plot (i.e., the data) for Argentina disappeared and the one for Colombia was never there. 
+One word of caution, though: there are countries where the reported data is, let's say, unexpected. For a country to have a very high positive rate and an extremely low active cases per million count is possible by unlikely. Take Mexico on 2020-10-21, for example: positive rate is at 30% (was at 40% 6 weeks before and slowly decreased since then) while active cases per millions appear "stuck" at around 350 since July 2020. This is difficult to believe, to say the least. Other countries have either stopped providing positive rate data or have never provided it at all; compare the sixth image down from 2020-09-17 with the one below and notice that the plot (i.e., the data) for Argentina disappeared and the one for Colombia was never there in the first place. 
 
 ![Figure 25](/img/img028.png)
 
