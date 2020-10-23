@@ -137,8 +137,8 @@ Here are the current Top-7 countries based on the revised definition:
 
 The clear "winners" today are Czech Republic, Belgium, and Netherlands.
 
-One word of caution, though: there are countries where the reported data is, let's say, unexpected. For a country to have a very high positive rate and an extremely low active cases per million count is possible by unlikely. Take Mexico on 2020-10-21, for example: positive rate is at 30% (was at 40% 6 weeks before and slowly decreased since then) while active cases per millions appear "stuck" at around 350 since July 2020. This is difficult to believe, to say the least. Other countries have either stopped providing positive rate data or have never provided it at all; compare the sixth image down from 2020-09-17 with the one below and notice that the plot (i.e., the data) for Argentina disappeared and the one for Colombia was never there in the first place. 
+However, there are countries where the reported data is, let's say, "surprising". It is possible, but unlikely for a country to have a very high positive rate and an extremely low active cases per million. For example, consider Mexico on 2020-10-21: positive rate was at 30% (it was at 40% six weeks before and slowly decreased since then) while active cases per million appears "stuck" at around 350 since July 2020. This apparent discrepancy is difficult to interpret, to say the least. Other countries have either stopped providing positive rate data altogether or have never provided it at all. Compare the sixth image down from 2020-09-17 with the one below and notice that the plot (i.e., the data) for Argentina is gone and the one for Colombia has never been there in the first place; these are not exceptions.
 
 ![Figure 25](/img/img028.png)
 
-This is the reason why many countries in South/Central America and elsewhere don't show at the top of the ACPO-14 list.
+This is the reason why many countries don't show at the top of the ACPO-14 list, and it also makes country comparison difficult.
