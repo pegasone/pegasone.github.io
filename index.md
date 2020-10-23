@@ -145,7 +145,7 @@ It turns out that the ECDC provides some information on COVID-19-related hospita
 
 <h4>2020-10-21</h4>
 
-I have revised the definition of ACPO-14 as follows: 
+I have revised the definition of ACPO-14 as follows (and updated the executable accordingly): 
 >ACPO-14 is the <i>square root</i> of the product of the average <b>Positive rate</b> and the slope of <b>Active cases per million</b> over the last 14 days (where both data are available; slope computation allows for 1-2 days’ worth of data to be missing at the ends of the 14-day sliding window) or zero, whichever is greater.
 
 Here are the current Top-7 countries based on the revised definition:
@@ -153,5 +153,3 @@ Here are the current Top-7 countries based on the revised definition:
 ![Figure 24](/img/img030.png)
 
 The clear "winners" are Czech Republic, Belgium, and Netherlands.
-
-The excutable will be updated to v1.3.1 in the next few days to reflect this change.
