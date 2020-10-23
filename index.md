@@ -152,4 +152,4 @@ Here are the current Top-7 countries based on the revised definition:
 
 ![Figure 24](/img/img030.png)
 
-The clear "winners" are Czech Republic, Belgium, and Netherlands.
+The clear "winners" today are Czech Republic, Belgium, and Netherlands.
