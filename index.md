@@ -104,23 +104,6 @@ Here is a heat map of <b>Active cases per million</b>, updated today. The overal
 ![Figure 21](/img/img027.png)
 
 
-<h4>2020-09-26</h4>
-
-By now you must have realized that, not all countries provide data for each of the three indicators and on each day. You may be wondering, how can one quickly find  countries where the COVID-19 situation has recently gotten worse? Here is one way to do it.
-
-Head over to <b>Active cases per million</b>. It is very likely that all countries will show "no data" on the current date (i.e., default date when launching the app). This is normal because the values of this this indicator are parsed off of JHU data sets, which are based on data available on the previous day. Use the slider to change the date and go back one day; for example, if today's date is 2020-09-26, change the date to 2020-09-25. Now most countries on the list show numerical values instead of "no data", and country names are listed in descending order of these values. Select a few items at the top of the list. Examine the historical data graph and make a note of the countries with recent spikes in <b>Active cases per million</b>. In the example below, these would be Spain, Costa Rica, France, Israel, and Belgium. 
-
-![Figure 22](/img/img028.png)
-
-Without changing the  selection, switch to <b>Positive rate</b>. On the updated graph, make a note of those countries that show recent increases, however small but above 2%, in the positive rate. In this example, these are Spain, France, Israel, and Belgium; alas, there are no <b>Positive rate</b> data available for Costa Rica. 
-
-![Figure 23](/img/img029.png)
-
-For consistency, we need both criteria to be met. By cross-referencing the two results we get: Spain, France, Israel, and Belgium. 
-
-By repeating these steps further down the country list we get: United Kingdom, Netherlands, Czech Republic, Ukraine, Portugal...
-
-
 <h4>2020-09-29</h4>
 
 I trust that by now you would agree that:
