@@ -93,3 +93,8 @@ However, there are countries where the reported data is, let's say, "surprising"
 ![Figure 25](/img/img028.png)
 
 This is the reason why many countries don't show at the top of the ACPO-14 list, and it also makes country comparison difficult.
+
+
+<h4>2020-10-26</h4>
+
+The data deletion/hiding trend continues. In today's OWID dataset, positive rate data for Netherlands is missing from Sep 21 onwards. Yesterday ACPO-19 was successfully computed for Netherlands, which means that positive data from at least 14 days ago was still available in the file.
