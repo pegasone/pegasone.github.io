@@ -102,4 +102,4 @@ The data deletion/hiding trend continues. In today's OWID dataset, positive rate
 
 <h4>2020-11-18</h4>
 
-The way data is now reported (or not) has made country comparisons virtually impossible. Reported new case counts have limited value without new test counts. Most countries do not report both, hence positive rates cannot be calculated. Some countries delay their reports by days or even weeks. There is no consistency in how restrictions are applied across regions or countries but in most cases rules seem to be based on "new case spikes".
+The way data is now reported (or not) has made country comparisons virtually impossible. Reported new case have limited value without new tests. Most countries do not report both, hence positive rates cannot be calculated. Some countries delay their reports by days or even weeks. There is no consistency in how restrictions are applied across regions or countries but new cases seems to be the main criterion.
