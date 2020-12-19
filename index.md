@@ -107,4 +107,4 @@ The way data is now reported (or not) has made country comparisons virtually imp
 
 <h4>2020-12-18</h4>
 
-The lack of transparency and the questionable recent updates to historical data by some countries make the interpretation of the COVID-19 pandemic parameters increasingly difficult.
+Lack of transparency and questionable recent updates to historical data by some countries make the interpretation of the COVID-19 pandemic parameters increasingly difficult.
